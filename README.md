@@ -4,6 +4,8 @@ This repository contains examples of how to interface the N64 controller on the 
 
 ## How to use:
 
+Download and install the `N64Controller` Arduino library. Upload the `firmware.ino` file to an Arduino Uno.
+
 To build the JavaScript version to `dist`, run the following commands:
 
 ```
