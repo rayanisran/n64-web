@@ -1,0 +1,24 @@
+{
+  "name": "image-hapi",
+  "version": "0.0.1",
+  "description": "N64 controller interfacing to the web.",
+  "main": "src/hAPI.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayanisran/n64-web.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "author": "",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/rayanisran/n64-web/issues"
+  },
+  "homepage": "https://github.com/rayanisran/n64-web/#readme",
+  "devDependencies": {
+    "@types/chrome": "^0.0.200",
+    "@types/w3c-web-serial": "^1.0.3",
+    "typescript": "^4.8.4"
+  }
+}
