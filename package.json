@@ -1,8 +1,8 @@
 {
-  "name": "image-hapi",
+  "name": "n64-web",
   "version": "0.0.1",
   "description": "N64 controller interfacing to the web.",
-  "main": "src/hAPI.ts",
+  "main": "src/controllerAPI.ts",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rayanisran/n64-web.git"
